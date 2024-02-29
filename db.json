@@ -1,0 +1,80 @@
+{
+  "videos": [
+    {
+      "id": "106b",
+      "caption": "Avesham",
+      "imageURL": "https://th-i.thgim.com/public/entertainment/movies/jrgypw/article67644635.ece/alternates/LANDSCAPE_1200/aa.jpeg",
+      "youtubeLink": "https://www.youtube.com/embed/L0yEMl8PXnw"
+    },
+    {
+      "id": "ac04",
+      "caption": "Bramayugam",
+      "imageURL": "https://timesofindia.indiatimes.com/photo/102820189.cms",
+      "youtubeLink": "https://www.youtube.com/embed/55pzldrBRJM"
+    },
+    {
+      "id": "8d6c",
+      "caption": "Peranbu",
+      "imageURL": "https://static.toiimg.com/photo/67750595.cms?imgsize=44382",
+      "youtubeLink": "https://www.youtube.com/embed/1Nk7bEYIA7c"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Comedy",
+      "allVideos": [
+        {
+          "id": "106b",
+          "caption": "Avesham",
+          "imageURL": "https://th-i.thgim.com/public/entertainment/movies/jrgypw/article67644635.ece/alternates/LANDSCAPE_1200/aa.jpeg",
+          "youtubeLink": "https://www.youtube.com/embed/L0yEMl8PXnw"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Horror Thriller",
+      "allVideos": [
+        {
+          "id": "ac04",
+          "caption": "Bramayugam",
+          "imageURL": "https://timesofindia.indiatimes.com/photo/102820189.cms",
+          "youtubeLink": "https://www.youtube.com/embed/55pzldrBRJM"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Documentery",
+      "allVideos": [
+        {
+          "id": "8d6c",
+          "caption": "Peranbu",
+          "imageURL": "https://static.toiimg.com/photo/67750595.cms?imgsize=44382",
+          "youtubeLink": "https://www.youtube.com/embed/1Nk7bEYIA7c"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "id": "7e9a",
+      "caption": "Avesham",
+      "youtubeLink": "https://www.youtube.com/embed/L0yEMl8PXnw",
+      "timeStamp": "02/27/2024, 12:18:40 PM"
+    },
+    {
+      "id": "4442",
+      "caption": "Manjummel boys",
+      "youtubeLink": "https://www.youtube.com/embed/vIa9xVg3hz0",
+      "timeStamp": "02/28/2024, 11:40:41 AM"
+    },
+    {
+      "id": "8631",
+      "caption": "Bramayugam",
+      "youtubeLink": "https://www.youtube.com/embed/55pzldrBRJM",
+      "timeStamp": "02/28/2024, 12:48:48 PM"
+    }
+  ]
+}
